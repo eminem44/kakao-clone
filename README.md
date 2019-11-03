@@ -1,2 +1,3 @@
 # kakao-clone
- Cloning kakao
+
+Kakao Desktop App Clone
